@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AndroidHomework5</string>
+    <string name="text_one">Text One</string>
+    <string name="text_two">Text Two</string>
+    <string name="text_three">Text Three</string>
+    <string name="no_content">No Content</string>
+    <string name="empty" />
+    <string name="default_item_title">Default item title</string>
+    <string name="remove">Remove</string>
+    <string name="default_destination">Default destination</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="default_name">default name</string>
+    <string name="text_plain">text/plain</string>
+    <string name="google_navigation_q">google.navigation:q=</string>
+    <string name="text_one_paragraph">Android is a mobile operating system developed by Google. It is based on a modified version of the Linux kernel and other open source software, and is designed primarily for touchscreen mobile devices such as smartphones and tablets. In addition, Google has further developed Android TV for televisions, Android Auto for cars, and Wear OS for wrist watches, each with a specialized user interface. Variants of Android are also used on game consoles, digital cameras, PCs and other electronics.</string>
+    <string name="text_two_paragraph">Initially developed by Android Inc., which Google bought in 2005, Android was unveiled in 2007, with the first commercial Android device launched in September 2008. The operating system has since gone through multiple major releases, with the current version being 9 "Pie", released in August 2018. The core Android source code is known as Android Open Source Project (AOSP), and is primarily licensed under the Apache License.</string>
+    <string name="text_three_paragraph">Android is also associated with a suite of proprietary software developed by Google, called Google Mobile Services[9] (GMS) that very frequently comes pre-installed in devices, which usually includes the Google Chrome web browser and Google Search and always includes core apps for services such as Gmail, as well as the application store and digital distribution platform Google Play, and associated development platform. These apps are licensed by manufacturers of Android devices certified under standards imposed by Google, but AOSP has been used as the basis of competing Android ecosystems, such as Amazon.com Fire OS, which use their own equivalents to GMS.</string>
+    <string name="challenge_7">Challenge 6</string>
+    <string name="challenge_6">Challenge 5</string>
+    <string name="challenge_5">Challenge 4</string>
+    <string name="challenge_4">Challenge 3</string>
+    <string name="challenge_3">Challenge 2</string>
+    <string name="https_developer_android_com">https://developer.android.com//</string>
+    <string name="open_website">OPEN WEBSITE</string>
+    <string name="bucharest">Bucharest</string>
+    <string name="we_love_android">We love Android :)</string>
+    <string name="share_text">SHARE TEXT</string>
+    <string name="add">add</string>
+    <string name="add_item">add item</string>
+
+
+</resources>

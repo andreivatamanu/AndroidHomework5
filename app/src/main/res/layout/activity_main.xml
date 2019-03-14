@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <Button
+            android:id="@+id/button_challenge_2"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="@dimen/space_0_dp"
+            android:layout_height="wrap_content"
+            android:onClick="Challenge1"
+            android:text="Challenge 1 "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/button_challenge_3"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="@dimen/space_0_dp"
+            android:layout_height="wrap_content"
+            android:onClick="Challenge2"
+            android:text="@string/challenge_3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_challenge_2" />
+
+        <Button
+            android:id="@+id/button_challenge_4"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="@dimen/space_0_dp"
+            android:layout_height="wrap_content"
+            android:onClick="Challenge4"
+            android:text="@string/challenge_4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_challenge_3" />
+
+        <Button
+            android:id="@+id/button_challenge_5"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="@dimen/space_0_dp"
+            android:layout_height="wrap_content"
+            android:onClick="openChallenge5"
+            android:text="@string/challenge_5"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_challenge_4" />
+
+        <Button
+            android:id="@+id/button_challenge_6"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="@dimen/space_0_dp"
+            android:layout_height="wrap_content"
+            android:onClick="openChallenge6"
+            android:text="@string/challenge_6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_challenge_5" />
+
+        <Button
+            android:id="@+id/button_challenge_7"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="@dimen/space_0_dp"
+            android:layout_height="wrap_content"
+            android:onClick="openChallenge7"
+            android:text="@string/challenge_7"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_challenge_6" />
+
+
+
+    </android.support.constraint.ConstraintLayout>
+
+</ScrollView>
